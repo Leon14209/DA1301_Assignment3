@@ -1,1 +1,2 @@
-"Learning Git and Bash".I am using how to use Git for version control"
+Learning Git and Bash
+I am using how to use Git for version control
