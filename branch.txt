@@ -1,1 +1,1 @@
-"this file was created on practice branch.I am learning how branches work in git"
+"This file was created on practice branch.I am learning how branches work in Git"
